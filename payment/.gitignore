@@ -1,0 +1,2 @@
+#Ingnore pushing the secret keys
+.env
